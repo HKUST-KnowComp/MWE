@@ -24,4 +24,4 @@ To accelerate the training process, we use the gensim package to do the first pa
 
 
 ## Others
-If you have some questions about the code, you are welcome to open an issue or send me an [email](jbai@connect.ust.hk), I will respond to that as soon as possible.
+If you have some questions about the code, you are welcome to open an issue or send me an [email](mailto:jbai@connect.ust.hk), I will respond to that as soon as possible.
